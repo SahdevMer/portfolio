@@ -34,7 +34,7 @@ const MainProject = () => {
             Tailwind Css
           </li>
           <li className="px-4 py-1 bg-gradient-to-r from-[#7E27C8] to-[#F00488] rounded-2xl text-lg font-medium">
-            Node.js
+            Typescript
           </li>
           <li className="px-4 py-1 bg-gradient-to-r from-[#7E27C8] to-[#F00488] rounded-2xl text-lg font-medium">
             Git
@@ -46,10 +46,10 @@ const MainProject = () => {
             Firebase
           </li>
           <li className="px-4 py-1 bg-gradient-to-r from-[#7E27C8] to-[#F00488] rounded-2xl text-lg font-medium">
-            Express.js
+            Next.js
           </li>
           <li className="px-4 py-1 bg-gradient-to-r from-[#7E27C8] to-[#F00488] rounded-2xl text-lg font-medium">
-            MongoDB
+            Shopify
           </li>
         </ul>
         <div className="flex justify-center mt-6">
